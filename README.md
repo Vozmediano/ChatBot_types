@@ -4,7 +4,8 @@
 
 ### En este repositorio hay 3 tipos de ChatBots, un modelo especifico y dos con IA.
 
-**Chatbot_basico**, este modelo le cree solo con funciones y nada mas que necesita 
+- **Chatbot_basico**
+  Este modelo le cree solo con funciones y nada mas que necesita 
 un archivo .json, este archivo puede ser personalizado por cada usuario dependiendo de la tematica 
 que quieras crear tu chatbot. Este modelo es mas conocido como chatbot especifico.
 
