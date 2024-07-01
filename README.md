@@ -6,18 +6,17 @@
 
 - **Chatbot_basico**
 
-  Este modelo le cree solo con funciones y nada mas que necesita 
-un archivo .json, este archivo puede ser personalizado por cada usuario dependiendo de la tematica 
-que quieras crear tu chatbot. Este modelo es mas conocido como chatbot especifico.
+  Este modelo le cree solo con definicion de funciones, el unico requisito es importar un archivo .json, este archivo puede ser personalizado por cada usuario dependiendo de la tematica que quieras crear tu chatbot. Este modelo es mas conocido como chatbot especifico.
 
 - **Chatbot_Blender**
 
-  Este modelo ya implementa el uso de inteligecia artificial, es un modelo
-con un nivel intermedio pero sencillo de comprender, en el readme del modelo explico mas en
-profundidad sobre el, aparte de los comentarios en el codigo para ayudar a comprender cada linea.
+  Este modelo ya implementa el uso de inteligecia artificial, es un modelo con un nivel intermedio pero sencillo de comprender, en el readme del modelo explico mas en profundidad sobre el, aparte de los comentarios en el codigo para ayudar a comprender cada linea.
 
- 
-El repositorio se divide en 3 carpetas, en cada una estara el codigo de cada ChatBot que corresponda, 
-los documentos necesarios para su funcionamiento y una explicacion tanto del codigo como del modelo.
+- **Chatbot_HuggingFace**
 
-Espero poder ayudar!!! :)
+  Este modelo tambien implementa el uso de inteligencia artificial, tambien tiene un nivel intermedio de complejidad pero a su vez es muy sencillo de comprender. Para su uso e implementacion es necesario disponer de una cuenta en Huggingface, en el readme del modelo explico como crearla y en los comentarios del codigo tambien.
+
+Cada carpeta contiene el modelo creado en Colab, archivos necesarios externos y explicacion para su uso.
+Como siempre digo, espero poder ayudar a quien lo necesite y estoy abierto a cambios, correcciones, mejoras....
+
+Gracias!!! :)
