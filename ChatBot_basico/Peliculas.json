@@ -1,0 +1,334 @@
+[
+    {
+        "nombre": "Avatar",
+        "resumen": "Criaturas azules de otro planeta que pelean contra humanos por el dominio de su planeta."
+    },
+    {
+        "nombre": "El padrino",
+        "resumen": "La saga de una familia de la mafia italiana en Nueva York y la transformación del hijo menor en el líder del clan."
+    },
+    {
+        "nombre": "El caballero oscuro",
+        "resumen": "Batman enfrenta al Joker, un criminal psicópata decidido a sumir a Gotham en el caos. Acción y dilemas morales."
+    },
+    {
+        "nombre": "Pulp Fiction",
+        "resumen": "Historias entrelazadas de crimen y redención en Los Ángeles. Destaca por su narrativa no lineal y diálogos memorables."
+    },
+    {
+        "nombre": "Forrest Gump",
+        "resumen": "Un hombre con un coeficiente intelectual bajo pero con un corazón grande, cuenta su extraordinaria vida a través de eventos históricos."
+    },
+    {
+        "nombre": "Inception",
+        "resumen": "Un ladrón que roba secretos a través de sueños se enfrenta al desafío de implantar una idea en la mente de un empresario."
+    },
+    {
+        "nombre": "El club de la lucha",
+        "resumen": "Un hombre aburrido de su vida forma un club de lucha clandestino con un carismático extraño. Exploración de la identidad y la rebelión."
+    },
+    {
+        "nombre": "Matrix",
+        "resumen": "Un hacker descubre que el mundo en el que vive es una simulación y se une a una rebelión para liberar a la humanidad."
+    },
+    {
+        "nombre": "Uno de los nuestros",
+        "resumen": "La vida de Henry Hill y su ascenso en la mafia, seguido de su inevitable caída y traición. Basada en hechos reales."
+    },
+    {
+        "nombre": "El silencio de los corderos",
+        "resumen": "Una joven agente del FBI busca la ayuda de un brillante pero peligroso asesino para capturar a otro asesino en serie."
+    },
+    {
+        "nombre": "La lista Schindler",
+        "resumen": "La historia real de Oskar Schindler, quien salvó a más de mil judíos durante el Holocausto. Un testimonio conmovedor de la humanidad."
+    },
+    {
+        "nombre": "El señor de los anillos",
+        "resumen": "Un hobbit debe destruir un anillo poderoso para salvar a la Tierra Media. Comienza una épica aventura de amistad y valor."
+    },
+    {
+        "nombre": "Star Wars",
+        "resumen": "Un joven granjero se une a la rebelión contra el Imperio Galáctico, guiado por un viejo caballero Jedi y una princesa valiente."
+    },
+    {
+        "nombre": "El rey leon",
+        "resumen": "Un joven león huye de su reino tras la muerte de su padre, solo para regresar y reclamar su lugar legítimo como rey."
+    },
+    {
+        "nombre": "Interestelar",
+        "resumen": "Un grupo de astronautas viaja a través de un agujero de gusano en busca de un nuevo hogar para la humanidad, enfrentando dilemas morales y científicos."
+    },
+    {
+        "nombre": "Gladiator",
+        "resumen": "Un general romano es traicionado y convertido en esclavo. Se convierte en gladiador y busca venganza contra el emperador corrupto."
+    },
+    {
+        "nombre": "Jurassic Park",
+        "resumen": "Un parque temático con dinosaurios clonados se convierte en una pesadilla cuando las criaturas escapan y causan estragos."
+    },
+    {
+        "nombre": "La milla verde",
+        "resumen": "Un guardia de prisión forma un vínculo con un prisionero con poderes sobrenaturales en el corredor de la muerte. Reflexión sobre justicia y milagros."
+    },
+    {
+        "nombre": "Se7en",
+        "resumen": "Dos detectives cazan a un asesino en serie que utiliza los siete pecados capitales como modus operandi. Un thriller oscuro y perturbador."
+    },
+    {
+        "nombre": "The Social Network",
+        "resumen": "La historia de la creación de Facebook y las disputas legales que surgieron entre los amigos y cofundadores. Un drama tecnológico."
+    },
+    {
+        "nombre": "Los vengadores",
+        "resumen": "Un grupo de superhéroes se une para salvar al mundo de una amenaza alienígena. Acción, humor y camaradería en el universo Marvel."
+    },
+    {
+        "nombre": "Los infiltrados",
+        "resumen": "Un policía encubierto y un topo en la policía buscan descubrirse mutuamente en una red de corrupción en Boston. Tensión y traición."
+    },
+    {
+        "nombre": "The Prestige",
+        "resumen": "Dos magos rivales en la Inglaterra victoriana compiten por crear el mejor truco de ilusión, con consecuencias trágicas."
+    },
+    {
+        "nombre": "Memento",
+        "resumen": "Un hombre con pérdida de memoria a corto plazo busca vengar la muerte de su esposa, utilizando notas y tatuajes para recordar."
+    },
+    {
+        "nombre": "Sospechosos comunes",
+        "resumen": "Cinco criminales son convocados para un trabajo, pero las cosas no son lo que parecen. Un thriller con un giro sorprendente."
+    },
+    {
+        "nombre": "Salvar al soldado ryan",
+        "resumen": "Durante la Segunda Guerra Mundial, un grupo de soldados es enviado a rescatar al último sobreviviente de cuatro hermanos. Un drama bélico épico."
+    },
+    {
+        "nombre": "American Beauty",
+        "resumen": "Un hombre de mediana edad experimenta una crisis existencial y busca redescubrir el sentido de su vida, con consecuencias inesperadas."
+    },
+    {
+        "nombre": "Alien",
+        "resumen": "La tripulación de una nave espacial encuentra una forma de vida alienígena mortal que empieza a cazarlos uno por uno. Horror y ciencia ficción."
+    },
+    {
+        "nombre": "Blade Runner",
+        "resumen": "En un futuro distópico, un 'blade runner' debe cazar a unos replicantes rebeldes, mientras cuestiona la naturaleza de la humanidad."
+    },
+    {
+        "nombre": "El sexto sentido",
+        "resumen": "Un niño que puede ver y comunicarse con los muertos busca la ayuda de un psicólogo infantil. Un thriller psicológico con un giro inolvidable."
+    },
+    {
+        "nombre": "Braveheart",
+        "resumen": "La épica historia de William Wallace, quien lidera a los escoceses en su lucha por la independencia contra Inglaterra. Valor y sacrificio."
+    },
+    {
+        "nombre": "Casablanca",
+        "resumen": "Durante la Segunda Guerra Mundial, un expatriado americano debe decidir entre el amor y la virtud al ayudar a su ex amante y su esposo a escapar de Marruecos."
+    },
+    {
+        "nombre": "Psycho",
+        "resumen": "Una secretaria huye tras robar dinero y se hospeda en un motel regentado por un joven con problemas. Terror psicológico en estado puro."
+    },
+    {
+        "nombre": "El resplandor",
+        "resumen": "Un escritor se convierte en el cuidador invernal de un hotel aislado, donde una presencia siniestra lo lleva a la locura. Terror icónico."
+    },
+    {
+        "nombre": "12 hombres sin piedad",
+        "resumen": "Doce miembros de un jurado deben decidir sobre la culpabilidad de un joven acusado de asesinato. Un drama de sala de juicio tenso y absorbente."
+    },
+    {
+        "nombre": "La naranja mecanica",
+        "resumen": "En una sociedad distópica, un joven delincuente se somete a una técnica experimental para erradicar su comportamiento violento. Sátira y crítica social."
+    },
+    {
+        "nombre": "Taxi Driver",
+        "resumen": "Un veterano de Vietnam, convertido en taxista en Nueva York, desciende a la locura mientras planea salvar a una joven prostituta."
+    },
+    {
+        "nombre": "Vertigo",
+        "resumen": "Un ex detective con miedo a las alturas es contratado para seguir a la esposa de un conocido, pero las cosas toman un giro inesperado."
+    },
+    {
+        "nombre": "El pianista",
+        "resumen": "La historia real de un pianista polaco judío que sobrevive al Holocausto gracias a su talento y a la ayuda de amigos y desconocidos."
+    },
+    {
+        "nombre": "Latigazo",
+        "resumen": "Un joven baterista de jazz busca la perfección bajo la tutela de un instructor despiadado. Un drama intenso sobre sacrificio y ambición."
+    },
+    {
+        "nombre": "Amelie",
+        "resumen": "Una joven camarera en París decide cambiar la vida de quienes la rodean mientras busca su propio camino hacia la felicidad."
+    },
+    {
+        "nombre": "El cisne negro",
+        "resumen": "Una bailarina de ballet lucha por el papel principal en 'El lago de los cisnes', enfrentando su propia oscuridad interior."
+    },
+    {
+        "nombre": "La La Land",
+        "resumen": "Un músico y una actriz se enamoran en Los Ángeles mientras persiguen sus sueños artísticos. Un musical moderno con un toque nostálgico."
+    },
+    {
+        "nombre": "El gran hotel de budapest",
+        "resumen": "Las aventuras de un conserje en un famoso hotel europeo y su joven protegido. Una comedia colorida con un elenco estelar."
+    },
+    {
+        "nombre": "Mad Max",
+        "resumen": "En un mundo post-apocalíptico, un hombre y una mujer luchan por la supervivencia y la libertad en una persecución implacable."
+    },
+    {
+        "nombre": "Ella",
+        "resumen": "Un escritor solitario se enamora de un sistema operativo avanzado, explorando la naturaleza del amor y la conexión en la era digital."
+    },
+    {
+        "nombre": "Del reves",
+        "resumen": "La historia de las emociones personificadas dentro de la mente de una niña mientras enfrenta cambios en su vida. Una animación conmovedora."
+    },
+    {
+        "nombre": "Coco",
+        "resumen": "Un niño mexicano viaja al mundo de los muertos para descubrir la verdad sobre su familia y su pasión por la música. Una celebración de la cultura y la memoria."
+    },
+    {
+        "nombre": "Nemo",
+        "resumen": "Un pez payaso emprende un viaje épico para encontrar a su hijo perdido, aprendiendo sobre el coraje y la amistad en el camino."
+    },
+    {
+        "nombre": "Los increibles",
+        "resumen": "Una familia de superhéroes lucha por equilibrar su vida cotidiana con la necesidad de salvar el mundo de un villano malvado."
+    },
+    {
+        "nombre": "Toy Story",
+        "resumen": "Los juguetes de un niño cobran vida cuando él no está, enfrentando aventuras y desafíos mientras buscan su lugar en el mundo."
+    },
+    {
+        "nombre": "Up",
+        "resumen": "Un anciano y un joven boy scout emprenden una aventura en una casa flotante por globos, buscando cumplir un sueño de toda la vida."
+    },
+    {
+        "nombre": "Monsters",
+        "resumen": "Dos monstruos que trabajan asustando niños descubren un complot y deben proteger a una niña humana en su mundo."
+    },
+    {
+        "nombre": "Ratatouille",
+        "resumen": "Un ratón con habilidades culinarias forma una alianza con un joven chef en París para crear platos increíbles. Una oda a la gastronomía."
+    },
+    {
+        "nombre": "WALLE",
+        "resumen": "Un robot de limpieza solitario en un planeta Tierra abandonado encuentra el amor y la aventura en su misión de limpiar el mundo."
+    },
+    {
+        "nombre": "El show de truman",
+        "resumen": "Un hombre descubre que su vida es en realidad un programa de televisión en vivo, y decide buscar la verdad y su libertad."
+    },
+    {
+        "nombre": "El eterno resplandor de la mente sin recuerdo",
+        "resumen": "Una pareja intenta borrar los recuerdos de su relación a través de un procedimiento experimental, solo para descubrir la importancia del amor."
+    },
+    {
+        "nombre": "Requiem por un sueño",
+        "resumen": "Las vidas de cuatro personas se desmoronan debido a la adicción a las drogas, en una narrativa que explora la desesperación y la esperanza perdida."
+    },
+    {
+        "nombre": "Donnie Darko",
+        "resumen": "Un adolescente perturbado recibe la visita de una figura misteriosa disfrazada de conejo, que lo impulsa a cometer actos extraños y proféticos."
+    },
+    {
+        "nombre": "El gran Lebowski",
+        "resumen": "Un hombre despreocupado conocido como 'El Nota' se ve involucrado en un caso de identidad equivocada y un complot de secuestro. Una comedia única."
+    },
+    {
+        "nombre": "No es pais para viejos",
+        "resumen": "Un hombre encuentra una maleta llena de dinero y desata una cadena de violencia cuando un asesino despiadado lo persigue para recuperarla."
+    },
+    {
+        "nombre": "Fargo",
+        "resumen": "Un hombre planea el secuestro de su esposa para obtener el rescate de su suegro rico, pero las cosas salen horriblemente mal en el proceso."
+    },
+    {
+        "nombre": "Tiburon",
+        "resumen": "Un tiburón asesino aterroriza a una pequeña ciudad costera, y un sheriff, un biólogo marino y un cazador de tiburones se unen para detenerlo."
+    },
+    {
+        "nombre": "Terminator",
+        "resumen": "Un cyborg asesino del futuro viaja al pasado para matar a la madre del líder de la resistencia humana. Un clásico de la ciencia ficción y acción."
+    },
+    {
+        "nombre": "La jungla de cristal",
+        "resumen": "Un policía de Nueva York lucha contra un grupo de terroristas que han tomado rehenes en un rascacielos de Los Ángeles. Acción y adrenalina."
+    },
+    {
+        "nombre": "Leon: El Profesional",
+        "resumen": "Un asesino a sueldo solitario se convierte en el protector de una niña cuya familia ha sido asesinada, mientras ella busca venganza."
+    },
+    {
+        "nombre": "El gran dictador",
+        "resumen": "Una sátira sobre Adolf Hitler, donde Charlie Chaplin interpreta a un barbero judío y a un dictador en una crítica mordaz al nazismo."
+    },
+    {
+        "nombre": "Lo que el viento se llevo",
+        "resumen": "La vida de Scarlett O'Hara durante y después de la Guerra Civil Americana, mientras lucha por su amor y su supervivencia. Un clásico épico."
+    },
+    {
+        "nombre": "Lawrence de Arabia",
+        "resumen": "La historia del oficial británico T.E. Lawrence y sus aventuras en la Península Arábiga durante la Primera Guerra Mundial. Un drama épico."
+    },
+    {
+        "nombre": "El puente sobre el rio kwai",
+        "resumen": "Prisioneros de guerra británicos son obligados a construir un puente ferroviario para los japoneses, mientras planean su sabotaje."
+    },
+    {
+        "nombre": "BenHur",
+        "resumen": "Un príncipe judío es traicionado y enviado a la esclavitud, pero regresa para vengarse y encontrar la redención. Un clásico épico."
+    },
+    {
+        "nombre": "Alguien volo sobre el nido del cuco",
+        "resumen": "Un hombre finge estar loco para evitar la cárcel y es internado en un hospital psiquiátrico, donde lucha contra la opresiva administración."
+    },
+    {
+        "nombre": "El sonido de la musica",
+        "resumen": "Una aspirante a monja se convierte en la institutriz de siete niños y trae alegría a su vida mientras escapan de la amenaza nazi. Un musical inolvidable."
+    },
+    {
+        "nombre": "Mary Poppins",
+        "resumen": "Una niñera mágica lleva a dos niños a aventuras fantásticas mientras enseña valiosas lecciones sobre la vida y la familia."
+    },
+    {
+        "nombre": "Bailando bajo la lluvia",
+        "resumen": "Una estrella de cine mudo debe adaptarse al sonido mientras encuentra el amor y la comedia en el Hollywood de los años 20. Un musical clásico."
+    },
+    {
+        "nombre": "Odisea al espacio",
+        "resumen": "Un viaje épico desde los albores de la humanidad hasta un futuro desconocido, explorando la inteligencia artificial y el destino del hombre."
+    },
+    {
+        "nombre": "Apocalipsis Now",
+        "resumen": "Durante la Guerra de Vietnam, un capitán del ejército estadounidense es enviado en una misión peligrosa para eliminar a un coronel deshonesto."
+    },
+    {
+        "nombre": "El exorcista",
+        "resumen": "Una niña es poseída por una entidad demoníaca, y su madre recurre a dos sacerdotes para realizar un exorcismo. Un clásico del terror."
+    },
+    {
+        "nombre": "El bebe de rosmery",
+        "resumen": "Una mujer embarazada sospecha que su esposo y vecinos forman parte de un culto satánico y quieren a su bebé para un oscuro propósito."
+    },
+    {
+        "nombre": "Chinatown",
+        "resumen": "Un detective privado investiga un caso de infidelidad y descubre una red de corrupción y tragedia en Los Ángeles. Un noir moderno."
+    },
+    {
+        "nombre": "Spidermam",
+        "resumen": "Hombre es picado por araña y recibe poderes sobrenaturales, su mision sera salvar al mundo."
+    },
+    {
+        "nombre": "Gru",
+        "resumen": "Un villano quiere salva al mundo con ayuda de pequeñas criaturas llamadas ninions."
+    },
+    {
+        "nombre": "A todo gas",
+        "resumen": "Carreras ilegales de coches por grupos organizados, con robos y peleas entre bandas."
+    }
+]
