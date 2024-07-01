@@ -4,11 +4,11 @@
 
 ### En este repositorio hay 3 tipos de ChatBots, un modelo especifico y dos con IA.
 
-Chatbot_basico, este modelo le cree solo con funciones y nada mas que necesita 
+**Chatbot_basico**, este modelo le cree solo con funciones y nada mas que necesita 
 un archivo .json, este archivo puede ser personalizado por cada usuario dependiendo de la tematica 
 que quieras crear tu chatbot. Este modelo es mas conocido como chatbot especifico.
 
-Chatbot_Blender, este modelo ya implementa el uso de inteligecia artificial, es un modelo
+**Chatbot_Blender**, este modelo ya implementa el uso de inteligecia artificial, es un modelo
 con un nivel intermedio pero sencillo de comprender, en el readme del modelo explico mas en
 profundidad sobre el, aparte de los comentarios en el codigo para ayudar a comprender cada linea.
 
