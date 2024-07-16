@@ -1,6 +1,8 @@
 # ChatBot_types
 
   ![chatbot](https://github.com/Vozmediano/ChatBot_types/assets/140751734/22e44722-7791-4306-8c1f-668f382c7a73)
+  
+# ![Badge FINALIZADO](https://img.shields.io/badge/STATUS-FINALIZADO-green)
 
 ### En este repositorio hay 3 tipos de ChatBots, un modelo especifico y dos con IA.
 
